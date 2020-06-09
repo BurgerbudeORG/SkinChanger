@@ -21,7 +21,7 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle.forge'
 apply plugin: 'org.burgerbude.labygradle'
 
-group = "your.domain"
+group = "org.burgerbude.labymod.addons"
 version = "1.0.0"
 
 ext {
@@ -40,7 +40,7 @@ minecraft {
 labymod {
     labymod(MAPPINGS, "1.12.2")
     config {
-        mainClass 'org.burgerbude.labymod.addons.example.ExampleAddon'
+        mainClass 'org.burgerbude.labymod.addons.skinchanger.SkinChangerAddon'
     }
 }
 

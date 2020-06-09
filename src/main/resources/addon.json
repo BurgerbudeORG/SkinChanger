@@ -1,1 +1,1 @@
-{"name":"Your Project Name","uuid":"%uuid%","mainClass":"org.burgerbude.labymod.addons.example.ExampleAddon"}
+{"name":"SkinChanger","uuid":"%uuid%","mainClass":"org.burgerbude.labymod.addons.skinchanger.SkinChangerAddon"}
